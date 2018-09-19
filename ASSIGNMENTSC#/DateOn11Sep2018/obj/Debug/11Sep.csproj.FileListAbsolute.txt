@@ -1,0 +1,7 @@
+D:\sravani\Assignments\11Sep\bin\Debug\11Sep.exe.config
+D:\sravani\Assignments\11Sep\bin\Debug\11Sep.exe
+D:\sravani\Assignments\11Sep\bin\Debug\11Sep.pdb
+D:\sravani\Assignments\11Sep\obj\Debug\11Sep.csprojAssemblyReference.cache
+D:\sravani\Assignments\11Sep\obj\Debug\11Sep.csproj.CoreCompileInputs.cache
+D:\sravani\Assignments\11Sep\obj\Debug\11Sep.exe
+D:\sravani\Assignments\11Sep\obj\Debug\11Sep.pdb
